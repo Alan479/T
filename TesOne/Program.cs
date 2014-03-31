@@ -12,6 +12,7 @@ namespace TesOne
             for (int i = 0; i < 10; i++)
             {
                 // not dd 9
+                int i;
             }
         }
     }
