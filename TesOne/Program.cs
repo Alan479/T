@@ -13,6 +13,7 @@ namespace TesOne
             {
                 // not dd 9
                 int i;
+                string str = string.Empty;
             }
         }
     }
